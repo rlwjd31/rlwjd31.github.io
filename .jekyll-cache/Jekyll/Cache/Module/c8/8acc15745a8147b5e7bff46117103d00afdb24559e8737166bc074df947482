@@ -1,4 +1,4 @@
-I"÷
+I"
 
 
   <aside class="about related mt4 mb4" role="complementary">
@@ -14,8 +14,8 @@
 
 <img
   
-    src="/assets/img/me/aboutme.png"
-    srcset="/assets/img/me/aboutme.png/128x128 1x,/assets/img/me/aboutme.png/256x256 2x"
+    src="/assets/img/me/sidebar_me.png"
+    srcset="/assets/img/me/sidebar_me.png/128x128 1x,/assets/img/me/sidebar_me.png/256x256 2x"
     
   
   alt="Park Gi Jung"
@@ -34,7 +34,7 @@
     About
   </h2>
 
-  <p>This is my first git blog</p>
+  <p>on my way to full stack developer</p>
 
 
   <div class="sidebar-social">
