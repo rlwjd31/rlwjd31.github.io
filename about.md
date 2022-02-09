@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/me/aboutme.jpeg
+image: /assets/img/me/aboutme.png
 description: >
   안녕하세요! full stack developer를 꿈꾸는 대학생입니다!
 hide_description: false

@@ -90,9 +90,9 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 # local에서 실행할 때 주석 해제
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 # githubpage에서 실행할 때 주석 해제
-remote_theme: hydecorp/hydejack@v9
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
