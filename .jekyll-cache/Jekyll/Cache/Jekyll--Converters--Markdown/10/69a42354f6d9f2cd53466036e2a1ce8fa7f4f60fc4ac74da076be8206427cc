@@ -1,0 +1,69 @@
+I"b	<!-- # About -->
+
+<!--author-->
+<h1 id="about">About</h1>
+
+<hr />
+<center>
+<span style="font-size:170%;font-weight:bold"> 김현우
+</span>
+</center>
+<center>MAJOR : AI EENGINEERING</center>
+<center>Korean University</center>
+<center>145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
+<h2 id="personal-data">Personal Data</h2>
+<hr />
+<blockquote>
+  <p>19xx.xx.xx 대한민국,xx 시,xx 구 출생&gt; 연락처: khw11044@gmail.com
+Github : <a href="https://github.com/khw11044">https://github.com/khw11044</a> ## Education
+—
+Mar.20xx ~ Feb.20xx xx 대학교</p>
+
+  <p>IT 융합공학부 (DIVISION OF IT CONVERGENCE ENGINEERING)</p>
+  <h2 id="research-interest">Research Interest</h2>
+</blockquote>
+
+<hr />
+<ul>
+  <li>Computer Vision</li>
+  <li>image Object Detection</li>
+  <li>Vot</li>
+  <li>Semantic/Instance Segmentation + Super Resolution</li>
+  <li>Machine Learning / Deep Learning + GAN
+    <ul>
+      <li>Few-Shot Learning</li>
+      <li>
+        <h2 id="meta-learning-project">Meta Learning## Project</h2>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Visual Object Tracking Using Plenoptic Image Sequences</strong> * <strong>FPV Swlf-driving RC Car</strong></li>
+  <li><strong>Anti Drone AI Robot using object detection</strong></li>
+  <li><strong>AI Mashroom Classificator App</strong>
+    <h2 id="awards">Awards</h2>
+    <hr />
+    <p><a href="https://www.youtube.com/watch?v=ah9MZQ0PjMI&amp;t=60s"><strong><em>2020 년 공개 SW 개발자 대회(주최:과학기술정보통신부, 주관:정보통신산업진흥원)[PM] 2020</em></strong></a></p>
+  </li>
+  <li><a href="https://blog.naver.com/khw11044/222152408161">BRONZE PRIZE</a>&lt;/a&gt;
+    <h2 id="work-experiences">Work Experiences</h2>
+    <hr />
+    <p>-2020. 07 – 2020. 11
+Visual Object Tracking Using Plenoptic Image Sequences, Hansung Univ – ETRI<a href="https://github.com/khw1 1044/PlenOpticVot_Siamfc_2020">https://github.com/khw11044/PlenOpticVot_Siamfc_2020</a></p>
+    <h2 id="skills-and-certification">Skills and Certification</h2>
+    <hr />
+    <p>-Language : Python, C/C++
+-FrameWork: Pytorch, Tensorflow(Keras)
+-Certification : CCNA, Internet of Things Knowledge Certification</p>
+  </li>
+</ul>
+
+<h2 id="personal-data-1">Personal Data</h2>
+<hr />
+<blockquote>
+  <p>Mar.2015 ~ Feb.2022 홍익대학교</p>
+
+  <p>컴퓨터정보통신공학과</p>
+
+  <p>Feb.2022 ~ 현재 : 취준생</p>
+</blockquote>
+:ET

@@ -1,0 +1,17 @@
+I"ö
+
+
+<img
+  
+    src="/assets/img/me/aboutme.jpeg/512x512"
+    srcset="/assets/img/me/aboutme.jpeg/512x512 1x,/assets/img/me/aboutme.jpeg/512x512 2x"
+    
+  
+  alt="Park Gi Jung"
+  class="avatar"
+  
+  width="120"
+  height="120"
+  loading="lazy"
+/>
+:ET
