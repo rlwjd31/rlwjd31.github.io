@@ -20,6 +20,8 @@ description: >
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
+categories:
+  - example2
 ---
 
 ## Programmers
@@ -28,3 +30,4 @@ sitemap: false
 
 [Test1]: /test1/
 [Test2]: /test2/
+

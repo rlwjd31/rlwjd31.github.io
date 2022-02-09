@@ -13,11 +13,11 @@ author1:
   # This photo will be used in the about section
   picture:
     # path:            https://via.placeholder.com/128x128
-    path:            /assets/img/me/aboutme.jpeg/
+    path:            /assets/img/me/aboutme.png/
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/me/aboutme.jpeg/
-      2x:            /assets/img/me/aboutme.jpeg/
+      1x:            /assets/img/me/aboutme.png/
+      2x:            /assets/img/me/aboutme.png/
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
