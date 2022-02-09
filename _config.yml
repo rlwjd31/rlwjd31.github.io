@@ -52,8 +52,17 @@ menu:
     url:               /about/
   - title:             algorithm
     url:               /algorithm/
+    submenu:
+      - title:         programmers
+        url:           /programmers/
+      - title:         baekjun
+        url:           /baekjun/
+          
   - title:             web
     url:               /web/
+  - title:             AI
+    url:               /ai/
+  
 
 
 # Add links to the footer.
