@@ -50,10 +50,10 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Example1
-    url:               /example1/
-  - title:             Example2
-    url:               /example2/
+  - title:             algorithm
+    url:               /algorithm/
+  - title:             web
+    url:               /web/
 
 
 # Add links to the footer.
